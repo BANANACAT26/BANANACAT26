@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">BANANACAT — Xu Jiaming</title>
+  <desc id="desc">A lavender pixel cat explores an orbital grid. Design, code, and build the impossible.</desc>
+  <defs>
+    <radialGradient id="glow"><stop stop-color="#8B7CFF" stop-opacity=".2"/><stop offset="1" stop-color="#8B7CFF" stop-opacity="0"/></radialGradient>
+    <linearGradient id="fade" x1="800" y1="0" x2="1280" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#8B7CFF" stop-opacity=".6"/><stop offset="1" stop-color="#A7C7FF" stop-opacity=".05"/></linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#8B7CFF" opacity=".13"/></pattern>
+  </defs>
+  <rect width="1280" height="440" rx="20" fill="#09090E"/>
+  <rect width="1280" height="440" rx="20" fill="url(#dots)"/>
+  <circle cx="1015" cy="220" r="300" fill="url(#glow)"/>
+  <path d="M40 40H56M40 40V56M1240 40H1224M1240 40V56M40 400H56M40 400V384M1240 400H1224M1240 400V384" stroke="#8B7CFF" stroke-opacity=".6" stroke-width="2"/>
+  <g font-family="'Helvetica Neue',Arial,sans-serif">
+    <circle cx="74" cy="73" r="4" fill="#C6B8FF"/>
+    <text x="90" y="78" fill="#B5ABC9" font-size="14" letter-spacing="3">XU JIAMING / DESIGN + TECHNOLOGY</text>
+    <text x="67" y="179" fill="#F2F0FF" font-size="86" font-weight="800" letter-spacing="-4">BANANACAT</text>
+    <text x="72" y="236" fill="#A99BFF" font-size="35" font-weight="500" letter-spacing="-1">Stay curious. Make it real.</text>
+    <text x="74" y="285" fill="#B4B0C5" font-size="18">HCI</text>
+    <circle cx="121" cy="280" r="2" fill="#655981"/>
+    <text x="138" y="285" fill="#B4B0C5" font-size="18">Embodied AI</text>
+    <circle cx="260" cy="280" r="2" fill="#655981"/>
+    <text x="277" y="285" fill="#B4B0C5" font-size="18">Agent Harness</text>
+    <path d="M74 325H700" stroke="#2C263B"/>
+    <text x="74" y="363" fill="#E8E4F5" font-size="17">Stop asking if you can. Go build the impossible.</text>
+    <text x="74" y="392" fill="#81778F" font-size="13" letter-spacing="2">BANANACAT.VIP</text>
+  </g>
+  <g stroke="url(#fade)">
+    <circle cx="1010" cy="215" r="142"/>
+    <ellipse cx="1010" cy="215" rx="79" ry="142"/>
+    <ellipse cx="1010" cy="215" rx="30" ry="142"/>
+    <ellipse cx="1010" cy="215" rx="142" ry="50"/>
+    <ellipse cx="1010" cy="215" rx="142" ry="104"/>
+    <path d="M868 215H1152M1010 73V357"/>
+  </g>
+  <ellipse cx="1010" cy="235" rx="202" ry="68" transform="rotate(-25 1010 235)" stroke="#A99BFF" stroke-opacity=".5"/>
+  <g shape-rendering="crispEdges">
+    <path d="M927 145H951V157H963V169H1035V157H1047V145H1071V181H1083V253H1071V277H1059V289H939V277H927V253H915V181H927Z" fill="#7664C4"/>
+    <path d="M939 157H951V181H963V193H1035V181H1047V157H1059V193H1071V253H1059V265H1047V277H951V265H939V253H927V193H939Z" fill="#C6B8FF"/>
+    <path d="M939 169H951V193H939ZM1047 169H1059V193H1047Z" fill="#9B83DE"/>
+    <path d="M951 217H963V241H951ZM1023 217H1035V241H1023Z" fill="#15121F"/>
+    <path d="M987 241H999V253H987ZM975 253H987V265H975ZM999 253H1011V265H999Z" fill="#4B386F"/>
+    <path d="M939 241H951V247H939ZM1035 241H1047V247H1035Z" fill="#A38BDD"/>
+    <path d="M1085 103H1097V127H1109V151H1121V163H1133V175H1157V163H1169V151H1181V127H1193V91H1181V115H1169V139H1157V151H1133V139H1121V127H1109V103H1097V91H1085Z" fill="#EDCF75" transform="rotate(-15 1140 133)"/>
+  </g>
+  <circle cx="834" cy="315" r="6" fill="#C6B8FF"/>
+  <circle cx="1156" cy="157" r="4" fill="#A7C7FF"/>
+  <path d="M1178 302H1192M1185 295V309M852 112H864M858 106V118M1108 365H1118M1113 360V370" stroke="#C6B8FF" stroke-width="2"/>
+  <text x="1008" y="394" text-anchor="middle" fill="#887AAB" font-family="monospace" font-size="12" letter-spacing="3">EXPLORING THE POSSIBLE ↗</text>
+</svg>
