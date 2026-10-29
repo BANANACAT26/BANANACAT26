@@ -20,16 +20,6 @@
 
 曾在 **字节跳动 / 飞书** 参与 AI 解决方案与商业化实践，做过知识问答、文档自动化、业务系统和 Agent 工作流。
 
-### Selected work / 最近的作品
-
-| 项目 | 做了什么 | 入口 |
-| :--- | :--- | :--- |
-| **Site Runtime Mirror** | 面向 AI 编程助手的网站复刻 Skill：捕获真实运行时、脚本与资源，复跑复杂动效，并用浏览器证据验证结果。 | [源码 ↗](https://github.com/BANANACAT26/site-runtime-mirror) |
-| **豳风图 · AI 数字长卷** | 将传统长卷转化为可探索的数字体验，结合 AI 意象视频、交互阅读与 RAG 导览。 | [源码 ↗](https://github.com/BANANACAT26/ai-digital-scroll-platform) · [体验 ↗](https://binfeng.bananacat.vip/) |
-| **写作词间** | 面向学术英语报告写作的词汇学习工具，结合每日新词与间隔复习。 | [源码 ↗](https://github.com/BANANACAT26/report-vocabulary-app) |
-
-更多交互设计、VR 与数字文化作品，收录在 **[bananacat.vip ↗](https://bananacat.vip/#projects)**。
-
 ### Exploring / 正在探索
 
 - **Human × AI** — 让人的意图、反馈和判断更好地进入智能系统。
