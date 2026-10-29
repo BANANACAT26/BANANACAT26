@@ -29,6 +29,11 @@
 ### Toolkit / 常用工具
 
 <p>
+  <img src="./assets/toolkit/codex.svg" alt="Codex" height="44">
+  <img src="./assets/toolkit/claude-code.svg" alt="Claude Code" height="44">
+  <img src="./assets/toolkit/vscode.svg" alt="VS Code" height="44">
+  <img src="./assets/toolkit/unity.svg" alt="Unity" height="44">
+  <img src="./assets/toolkit/ue5.svg" alt="Unreal Engine 5" height="44">
   <img src="./assets/toolkit/python.svg" alt="Python" height="44">
   <img src="./assets/toolkit/javascript.svg" alt="JavaScript" height="44">
   <img src="./assets/toolkit/react.svg" alt="React" height="44">
