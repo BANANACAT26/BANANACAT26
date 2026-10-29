@@ -33,6 +33,7 @@
   <img src="./assets/toolkit/css3.svg" alt="CSS" height="44">
   <img src="./assets/toolkit/git.svg" alt="Git" height="44">
   <img src="./assets/toolkit/figma.svg" alt="Figma" height="44">
+  <img src="./assets/toolkit/feishu.png" alt="飞书" width="104" height="44">
 </p>
 
 `用户研究` `交互设计` `原型设计`
