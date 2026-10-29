@@ -4,12 +4,6 @@
 
 <p align="center">
   <a href="https://bananacat.vip"><strong>个人网站 ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://bananacat.vip/#projects">设计作品</a>
-  &nbsp; · &nbsp;
-  <a href="https://bananacat.vip/#mylab">实验室</a>
-  &nbsp; · &nbsp;
-  <a href="mailto:xuj038904@gmail.com">联系我</a>
 </p>
 
 ### Hi，我是 Xu Jiaming 👋
