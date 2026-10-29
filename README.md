@@ -28,8 +28,17 @@
 
 ### Toolkit / 常用工具
 
-`Python` `JavaScript` `React` `HTML / CSS` `Git`  
-`Figma` `用户研究` `交互设计` `原型设计`
+<p>
+  <img src="./assets/toolkit/python.svg" alt="Python" height="44">
+  <img src="./assets/toolkit/javascript.svg" alt="JavaScript" height="44">
+  <img src="./assets/toolkit/react.svg" alt="React" height="44">
+  <img src="./assets/toolkit/html5.svg" alt="HTML" height="44">
+  <img src="./assets/toolkit/css3.svg" alt="CSS" height="44">
+  <img src="./assets/toolkit/git.svg" alt="Git" height="44">
+  <img src="./assets/toolkit/figma.svg" alt="Figma" height="44">
+</p>
+
+`用户研究` `交互设计` `原型设计`
 
 ---
 
